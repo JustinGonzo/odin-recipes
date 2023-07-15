@@ -1,0 +1,1 @@
+Hello everyone! My name is Justin Gonzalez. I started with zero experience with Linux, Git, Bash, and HTML and after a couple of weeks, I am starting to feel quite comfortable with the basics.
